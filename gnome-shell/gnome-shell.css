@@ -1,0 +1,26 @@
+.osd-window,
+.resize-popup,
+.switcher-list, .workspace-switcher-container {
+  background-color: rgba(10,11,19,0.5);
+  border: 0px;
+  border-radius: 2px;
+}
+
+.window-clone-border {
+  border: 0px;
+}
+
+#dash {
+  background-color: transparent;
+  border: 0px;
+}
+
+.workspace-thumbnail-indicator {
+  border: 2px solid;
+  padding: 2px;
+}
+
+.workspace-thumbnails {
+  background-color: transparent;
+  border: 0px;
+}
